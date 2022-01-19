@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642618730 source:c:\users\elmor\desktop\pmc\tugas1\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+
+1642618952 source:c:\users\elmor\desktop\pmc\tugas1\tugas1.c
+	<stdio.h>
+	<stdlib.h>
+
